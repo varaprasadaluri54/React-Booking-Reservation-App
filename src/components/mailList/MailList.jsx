@@ -8,7 +8,7 @@ export default function MailList() {
         Signup and we'll send the best deals to you
       </span>
       <div className="mailInputContainer">
-        <input type="text" placeholder="your Email" />
+        <input type="text" placeholder="Your Email" />
         <button>Subscribe</button>
       </div>
     </div>
